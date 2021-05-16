@@ -1,5 +1,4 @@
 # Ping_Pong-Game
-used java script
 
 Well, we will be making a smaller and easier version of this game. The main points for the game are -
 1. There will be 2 rods at the top and bottom of the screen.
@@ -14,18 +13,11 @@ Screenshots and a small gif is provided but first let us go through some rules f
 4. The score will be counted from the start of every match(used local storage for that)
 
 
-css file linked by command:
-<link rel="stylesheet" href="style.css">
 
-js file linked by command:
-<script src="script.js"></script>
+## The game should look like this on starting -
+![](images/screenshot1.PNG)
 
 
 
-##heading
-The game should look like this on starting -
-
-
-
-A small video for this game is provided below -
-Image3
+## A small video for this game is provided below -
+![](images/game.gif)
