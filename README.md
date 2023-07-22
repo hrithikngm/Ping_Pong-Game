@@ -14,10 +14,14 @@ Screenshots and a small gif is provided but first let us go through some rules f
 
 
 
-## The game should look like this on starting -
+## The game should look like this on starting - 
 ![](images/screenshot1.PNG)
 
 
 
 ## A small video for this game is provided below -
 ![](images/game.gif)
+
+
+
+test oauth
